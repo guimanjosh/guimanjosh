@@ -3,6 +3,7 @@
 <h3>About Me:</h3>
 <ul>
   <li>Received my B.S. in Mathematics-Computer Science and minor in Cognitive Science from UC San Diego</li>
+  <li>I am a software developer intern at the San Diego Super Computer working on a full-stack website application</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
