@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">Software Engineer from the Bay Area & San Diego</h3>
+<h1 align="center">Joshua Guiman</h1>
+<h2 align="center">Software Engineer from the Bay Area & San Diego</h2>
+<h3>About Me:</h3>
+<ul>
+  <li>Received my B.S. in Mathematics-Computer Science and minor in Cognitive Science from UC San Diego</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
