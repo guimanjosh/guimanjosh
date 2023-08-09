@@ -3,7 +3,7 @@
 <h3>About Me:</h3>
 <ul>
   <li>Received my B.S. in Mathematics-Computer Science and minor in Cognitive Science from UC San Diego</li>
-  <li>I am a software developer intern at the San Diego Supercomputer Center and developed full-stack website application</li>
+  <li>Software developer intern at the San Diego Supercomputer Center and helped develop a full-stack website application</li>
   <li>I have experience tutoring, worked as a tutor for Swoop Tutors teaching Computer Science in Python and AP Statistics</li>
 </ul>
 
