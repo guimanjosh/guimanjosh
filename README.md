@@ -6,7 +6,7 @@
   <li>Software developer intern at the San Diego Supercomputer Center and helped develop a full-stack website application</li>
   <li>Projects I've worked on are related to UI development, UX Research, Web Mining/Crawling, Data Analysis</li>
   <li>I have tutoring experience, worked as a tutor for Swoop Tutors teaching Computer Science in Python and AP Statistics</li>
-  <li>Teach me something about Vue, Angular, C#, Surfing/Snowboarding, Brazilian Jiu-Jitsu/Judo, cooking, BBoy/Shuffling</li>
+  <li>In my free time, I enjoy learning Japanese, practicing Brazilian Jiu Jitsu, and surfing/skateboarding!</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
