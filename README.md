@@ -3,6 +3,7 @@
 <h3>About Me:</h3>
 <ul>
   <li>Received my B.S. in Mathematics-Computer Science and minor in Cognitive Science from UC San Diego</li>
+  <li>Incoming software engineer intern at the SLAC National Accelerator Laboratory starting January 2024!</li>
   <li>Software developer intern at the San Diego Supercomputer Center and helped develop a full-stack website application</li>
   <li>Projects I've worked on are related to UI development, UX Research, Web Mining/Crawling, Data Analysis</li>
   <li>I have tutoring experience, worked as a tutor for Swoop Tutors teaching Computer Science in Python and AP Statistics</li>
